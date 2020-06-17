@@ -8,14 +8,14 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:504286867441:android:b945ae7e282dd5f7f0de50",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.instafire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "504286867441-3f67f35ut55vssu81pn0ak1bbdpveo9p.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
@@ -28,7 +28,7 @@
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "504286867441-3f67f35ut55vssu81pn0ak1bbdpveo9p.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
