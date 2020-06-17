@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504286867441",
+    "firebase_url": "https://instafire-b800c.firebaseio.com",
+    "project_id": "instafire-b800c",
+    "storage_bucket": "instafire-b800c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504286867441:android:b945ae7e282dd5f7f0de50",
+        "android_client_info": {
+          "package_name": "com.example.instafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504286867441-3f67f35ut55vssu81pn0ak1bbdpveo9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDqVTrbyMORy6Gyay9ZJNQY9ZY1PkgvWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504286867441-3f67f35ut55vssu81pn0ak1bbdpveo9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
